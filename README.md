@@ -2,4 +2,4 @@
 personer wiki system
 
 
-powered by Simiki
+Powered by Simiki
